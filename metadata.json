@@ -1,0 +1,5 @@
+{
+  "name": "Meet Right",
+  "description": "A timezone converter mini app for setting meetings right for remote teams. It allows users to add team members with their respective timezones and visualizes their local times and working hour statuses on individual cards.",
+  "requestFramePermissions": []
+}
